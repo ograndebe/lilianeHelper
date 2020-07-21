@@ -1,0 +1,12 @@
+# o formato do arquivo eh [Etiqueta do botão];[configuração do atalho];[comportamento]
+# o comportamento serah HOLD=manter a tecla pressionada / RELEASE=Soltar a tecla / PRESS_AND_RELEASE=Aperta e solta a tecla
+Segurar H;h;HOLD
+Soltar H;h;RELEASE
+Segurar G;g;HOLD
+Soltar g;g;RELEASE
+Teclar Ctrl+C;ctrl+c;PRESS_AND_RELEASE
+Teclar Ctrl+V;ctrl+v;PRESS_AND_RELEASE
+Teclar Ctrl+X;ctrl+x;PRESS_AND_RELEASE
+Teclar A;a;PRESS_AND_RELEASE
+Teclar w;w;PRESS_AND_RELEASE
+Teclar z;z;PRESS_AND_RELEASE
